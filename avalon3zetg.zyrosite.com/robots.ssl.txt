@@ -1,0 +1,4 @@
+Sitemap: https://avalon3zetg.zyrosite.com/sitemap.xml
+
+User-agent: *
+Disallow:
